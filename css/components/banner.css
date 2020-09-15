@@ -1,0 +1,30 @@
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  background: linear-gradient(0deg, rgba(2,0,36,0.4) 0%, rgba(20,0,0,0.54635852632068453) 100%, rgba(0,212,255,0.4) 100%), url(https://i.pinimg.com/originals/8d/de/fb/8ddefbff5ed6ae65ee8a2beb9228d9c1.png);
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.banner h1 {
+  color: white;
+}
+
+.banner p {
+  color: white;
+  opacity: .9;
+  font-size: 20px;
+}
+
+.btn-primary {
+  display: inline-block;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}
