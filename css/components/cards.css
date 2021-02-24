@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+.text-margin {
+  margin: 30px;
+}
+
 .cards {
   display: flex;
   justify-content: space-between;
